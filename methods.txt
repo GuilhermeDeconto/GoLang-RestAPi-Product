@@ -1,0 +1,11 @@
+POST http://localhost:8010/product
+{
+    "name": "Teste 1",
+    "price": 1.2
+}
+
+POST http://localhost:8010/product
+{
+    "name": "Teste 2",
+    "price": 6.0
+}
